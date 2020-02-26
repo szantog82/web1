@@ -1,0 +1,41 @@
+.navbar-brand img {
+  height: 140%;
+  width: 140%;
+  margin-right: 20px;
+}
+
+.title-image-container{
+position: relative;
+  font-family: Arial;
+}
+
+.cont {
+ margin-bottom: 100px;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  background: rgba(10, 10, 19, 0.8);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+figure {
+    width: 25%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.eq-img {
+    width: 150px;
+    height: 100px;
+}
