@@ -16,6 +16,6 @@ exit();
 
     <br>
     <p>További jó böngészést oldalunkon!</p>
-
+<?php include("footer.php"); ?>
       </body>
 </html>
