@@ -28,6 +28,6 @@
       <input class="btn btn-primary" type="submit" value="Elküldés">
     </form>
   </div>
-
+<?php include("footer.php"); ?>
   </body>
 </html>
