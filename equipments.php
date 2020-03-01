@@ -30,5 +30,6 @@
          <img style="width: 60%;" src="res/terulet.jpg" alt="terület">
       </div>
     </div>
+<?php include("footer.php"); ?>
 </body>
 </html>
